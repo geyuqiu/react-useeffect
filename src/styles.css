@@ -1,0 +1,24 @@
+.header {
+  background: #eee;
+}
+
+.sidebar {
+  background: #ccc;
+}
+
+.sidebar li {
+  cursor: pointer;
+}
+
+.sidebar li.selected {
+  color: red;
+}
+
+.main {
+  background: #eef;
+  height: 75vh;
+}
+
+.main img {
+  max-height: 50vh;
+}
